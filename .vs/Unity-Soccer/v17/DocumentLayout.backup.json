@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|c:\\users\\nick\\documents\\github\\unity-soccer\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|c:\\users\\nick\\documents\\github\\unity-soccer\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C495057B-96B4-E3A8-B560-9BAE0F80DF91}|Assembly-CSharp.csproj|C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +25,6 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EnemyX.cs",
@@ -42,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SpawnManagerX.cs",
               "DocumentMoniker": "C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "ToolTip": "C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBYAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T22:32:18.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerControllerX.cs",
               "DocumentMoniker": "C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "ToolTip": "C:\\Users\\Nick\\Documents\\GitHub\\Unity-Soccer\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T22:20:34.448Z",
               "EditorCaption": ""
